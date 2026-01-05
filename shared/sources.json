@@ -564,7 +564,7 @@
     "interval": 1800000,
     "title": "热播榜"
   },
-  "zhongzhi-hot-kuaixun": {
+  "zhongzhi-hot-baogao": {
     "name": "中指",
     "type": "hottest",
     "column": "china",
