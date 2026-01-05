@@ -563,5 +563,23 @@
     "color": "green",
     "interval": 1800000,
     "title": "热播榜"
+  },
+  "zhongzhi-hot-kuaixun": {
+    "name": "中指",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://www.cih-index.com",
+    "color": "yellow",
+    "interval": 1800000,
+    "title": "热门报告"
+  },
+  "zhongzhi-hot-kuaixun": {
+    "name": "中指",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://www.cih-index.com",
+    "color": "red",
+    "interval": 1800000,
+    "title": "数据快讯"
   }
 }
