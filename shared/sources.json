@@ -568,7 +568,7 @@
     "name": "中指",
     "type": "hot",
     "column": "china",
-    "home": "https://www.cih-index.com",
+    "home": "https://www.cih-index.com/",
     "color": "yellow",
     "interval": 1800000,
     "title": "热门报告"
@@ -577,7 +577,7 @@
     "name": "中指",
     "type": "newsflash",
     "column": "china",
-    "home": "https://www.cih-index.com",
+    "home": "https://www.cih-index.com/",
     "color": "red",
     "interval": 1800000,
     "title": "数据快讯"
