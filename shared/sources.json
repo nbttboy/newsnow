@@ -566,16 +566,16 @@
   },
   "zhongzhi-hot-baogao": {
     "name": "中指",
-    "type": "hottest",
+    "type": "hot",
     "column": "china",
     "home": "https://www.cih-index.com",
     "color": "yellow",
     "interval": 1800000,
     "title": "热门报告"
   },
-  "zhongzhi-hot-kuaixun": {
+  "zhongzhi-flash-kuaixun": {
     "name": "中指",
-    "type": "hottest",
+    "type": "newsflash",
     "column": "china",
     "home": "https://www.cih-index.com",
     "color": "red",
